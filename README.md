@@ -19,7 +19,7 @@
   <img alt="Visual Studio Code" title="Visual Studio Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
-### **Design & BIM Tools**
+### **BIM Tools**
 <p align="left">
   <img alt="AutoCAD" title="AutoCAD" width="40px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.png" />
   <img alt="SketchUp" title="SketchUp" width="40px" style="padding-right:10px;" src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" />
